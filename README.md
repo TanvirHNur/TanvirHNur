@@ -1,8 +1,12 @@
 
 ### Hi there 👋
 My name is Tanvir Hossain.😀
-🔭 I'm 22 years old, I am a newbie in web development.
-👯 I want to be a front-end developer in 2022. 🤔 I am not perfect. Give me your valuable comment to improve myself. Thanks for your time.
+<p>🔭 I'm 22 years old, I am a newbie in web development.</p>
+<p>👯 I want to be a front-end developer in 2022. 🤔 I am not perfect. Give me your valuable comment to improve myself. Thanks for your time.</p>
+<p>💻 Most used line of code git commit -m "Initial Commit"</p>
+<p>🥅 2021 goals: Learn React.js, Express.js, Mongodb & so many projects.</p>
+<p>📫 How to reach me: <a href="https://www.linkedin.com/in/tanvir-hossain-js-dev">Linkedin</a>||<a href="https://www.facebook.com/tanvir.hossain.ierdu/">Facebook</a></p>
+<p>⚡ Fun fact: I love to playing cricket and travelling</p>
 
 
 <!--
