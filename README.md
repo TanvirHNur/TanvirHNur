@@ -13,7 +13,7 @@ My name is Tanvir Hossain.😀
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TanvirHNur&show_icons=true&locale=en&layout=compact" alt="TanvirHNur" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TanvirHNur&show_icons=true&locale=en" alt="TanvirHNur" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirHNur&" alt="TanvirHNur" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirHNur&" alt="TanvirHNur" </p>
 
 <!--
 **TanvirHNur/TanvirHNur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
