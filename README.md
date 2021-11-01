@@ -9,8 +9,8 @@ My name is Tanvir Hossain.😀
 <p>⚡ Fun fact: I love to playing cricket and travelling</p>
 
  <h3 align="left">Languages and Tools:</h3>
+ 
  [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/TanvirHNur)
-[![Firebase Badge](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white)](https://github.com/TanvirHNur)
 [![React Router Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://github.com/TanvirHNur)
 [![Git Badge](https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white)](https://github.com/TanvirHNur)
 [![Yarn Badge](https://img.shields.io/badge/yarn-0078D6?style=for-the-badge&logo=yarn&logoColor=white)](https://github.com/TanvirHNur)
